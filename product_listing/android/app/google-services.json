@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049899751156",
+    "project_id": "product-listing-d0d46",
+    "storage_bucket": "product-listing-d0d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049899751156:android:5c23cb5e0ad585d26530a1",
+        "android_client_info": {
+          "package_name": "com.abhishek.product_listing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4gO9EDNCtjMTv89gl4Wz9LpePMF3wmmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
